@@ -1,2 +1,2 @@
 # datavizlibrary
-Gathering data visualizations used in power systems
+Gathering and sharing data visualizations used in power systems
